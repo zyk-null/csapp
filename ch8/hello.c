@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	printf("halo\n");
+	printf("halo git\n");
 	return 0;
 }
 
